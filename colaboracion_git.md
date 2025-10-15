@@ -12,6 +12,12 @@ El objetivo principal es establecer un flujo de trabajo eficiente que permita a 
 - Documentar buenas prácticas de trabajo en equipo
 - Facilitar la integración de contribuciones
 
+### Resolución de Conflictos Organizada
+Cuando surgen conflictos por cambios simultáneos en las mismas líneas de código, Git proporciona herramientas claras para resolverlos manteniendo la integridad del proyecto.
+
+### Documentación y Trazabilidad
+GitHub Issues, Projects y Wikis centralizan la documentación, planning y seguimiento de tareas, mejorando la comunicación y organización del equipo.
+
 ### Roles del equipo:
 - **Líder:** Control y gestión del repositorio
 - **Documentador:** Creación y mantenimiento de documentación
@@ -37,9 +43,20 @@ El objetivo principal es establecer un flujo de trabajo eficiente que permita a 
 - Expandir el equipo con nuevos roles (QA, DevOps)
 - Crear estructura de submódulos para proyectos complejos
 - Automatizar proceso de merges con bots de revisión
+
+
 - Establecer plantillas estándar para issues y pull requests
 - Implementar sistema de tagging semántico para releases
 - Integrar herramientas de análisis de código
 
+### Beneficios Concretos Obtenidos:
+- **Trabajo simultáneo sin conflictos** gracias al sistema de ramas
+- **Calidad de código mejorada** mediante revisiones por PRs
+- **Trazabilidad completa** de todos los cambios realizados
+- **Recuperación ante errores** mediante reversión a versiones estables
+- **Onboarding más rápido** de nuevos miembros del equipo
+
 ---
 *Documento creado por el equipo de NBot*
+#agregue resolucion de conflictos organizado y documentacion y trazabilidad 
+#segundo commit agregando mas conclusiones
