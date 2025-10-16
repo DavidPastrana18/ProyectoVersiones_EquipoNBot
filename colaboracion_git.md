@@ -1,6 +1,6 @@
 # Colaboración con Git - ProyectoVersiones_EquipoNBot
 
-## 📖 Introducción
+## Introducción
 
 Este documento describe el proceso de colaboración utilizando Git y GitHub para el desarrollo del proyecto NBot. 
 
@@ -18,7 +18,7 @@ El objetivo principal es establecer un flujo de trabajo eficiente que permita a 
 - **Investigador:** Análisis y recopilación de información
 - **Editor:** Revisión y mejora de contenido
 
-## 🏁 Conclusiones
+## Conclusiones
 
 ### Logros alcanzados:
 - Implementación exitosa del sistema de control de versiones colaborativo
